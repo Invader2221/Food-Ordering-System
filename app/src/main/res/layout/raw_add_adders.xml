@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="2dp"
+    android:paddingBottom="2dp">
+
+    <EditText
+        android:id="@+id/adderName"
+        android:layout_margin="3dp"
+        android:background="@drawable/button_edit_text"
+        android:layout_weight="1"
+        android:textAlignment="center"
+        android:hint="Adder name"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"/>
+
+    <EditText
+        android:id="@+id/adderPrice"
+        android:layout_margin="3dp"
+        android:background="@drawable/button_edit_text"
+        android:layout_weight="1"
+        android:textAlignment="center"
+        android:hint="Price"
+        android:inputType="numberDecimal"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"/>
+
+    <ImageView
+        android:id="@+id/closeAdderImage"
+        android:layout_margin="3dp"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_gravity="center_vertical"
+        android:tint="@android:color/black"
+        android:src="@drawable/ic_close"/>
+
+</LinearLayout>

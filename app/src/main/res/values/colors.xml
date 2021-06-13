@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#102027</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="Login">#003E70</color>
+    <color name="Cancel">#4C0202</color>
+    <color name="primaryTextColor">#FFEB3B</color>
+    <color name="SignupText">#FF5722</color>
+    <color name="background">#FFC107</color>
+    <color name="welcomeanime">#F7F7F7</color>
+    <color name="cart">#918D8C</color>
+    <color name="loginBackground">#E8E8E8</color>
+
+    <color name="profileBackground">#FFFFFF</color>
+    <color name="addMoreButton">#2196F3</color>
+    <color name="colorTransparent">#002198c6</color>
+    <color name="buttonEditText">#9F9F9F</color>
+
+
+    <color name="colorLoginPrimaryDark">#FDFFFF</color>
+    <color name="blackTextColor">#000</color>
+
+    <color name="loginButtonColor">#FFFFFF</color>
+    <color name="whiteTextColor">#fff</color>
+    <color name="whiteCardColor">#fff</color>
+    <color name="profileAccentColor">#F7F7F7</color>
+
+
+    <color name="profilePrimaryDark">#FF3B30</color>
+
+</resources>

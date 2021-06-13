@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "665877970526",
+    "firebase_url": "https://quick-foods-f8b31.firebaseio.com",
+    "project_id": "quick-foods-f8b31",
+    "storage_bucket": "quick-foods-f8b31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665877970526:android:e4bd47efa0360b8330fecf",
+        "android_client_info": {
+          "package_name": "com.example.quick_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665877970526-7k68qbmbf0rdli2lnbg7jf8njvfa3qmf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quick_food",
+            "certificate_hash": "ef881895b6050d89781f9d5d315944a7fab48cc8"
+          }
+        },
+        {
+          "client_id": "665877970526-gedl3q8pe4gqhji7ge3aab4rncmjneu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6aAQpzx0ReF9i2QbmNASNidQ0bKhDXTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665877970526-gedl3q8pe4gqhji7ge3aab4rncmjneu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

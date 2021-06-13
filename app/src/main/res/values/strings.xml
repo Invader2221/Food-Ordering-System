@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quick_Food</string>
+    <string name="login">LOGIN</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_signup_hint">Already have an account?\nSign Up Now!</string>
+    <string name="signUp_login_hint"><u>Already Have an Account?\nLogin Now.</u></string>
+
+</resources>

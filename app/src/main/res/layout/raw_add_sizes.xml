@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="2dp"
+    android:paddingBottom="2dp">
+
+    <FrameLayout
+        android:layout_margin="3dp"
+        android:background="@drawable/button_edit_text"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="40dp">
+
+        <androidx.appcompat.widget.AppCompatSpinner
+            android:id="@+id/foodSizeSpinner"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+    </FrameLayout>
+
+    <EditText
+        android:id="@+id/sizePrice"
+        android:layout_margin="3dp"
+        android:background="@drawable/button_edit_text"
+        android:layout_weight="1"
+        android:textAlignment="center"
+        android:hint="Price"
+        android:inputType="numberDecimal"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"/>
+
+    <ImageView
+        android:id="@+id/closeSizeImage"
+        android:layout_margin="3dp"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_gravity="center_vertical"
+        android:tint="@android:color/black"
+        android:src="@drawable/ic_close"/>
+
+</LinearLayout>
